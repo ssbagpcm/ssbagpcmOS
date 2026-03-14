@@ -173,10 +173,5 @@ xorriso -as mkisofs \
 | Rebuild ISO | `xorriso -as mkisofs -o ssbagpcmOS.iso -b isolinux.bin -c boot.cat -no-emul-boot -boot-load-size 4 -boot-info-table iso_root/` |
 | Exit QEMU | `Ctrl+A` then `X` |
 
-# Screenshots
-
-
-
-
 
 
